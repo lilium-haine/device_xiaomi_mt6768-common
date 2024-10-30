@@ -105,6 +105,7 @@ TARGET_COPY_OUT_SYSTEM_EXT := system_ext
 TARGET_BOARD_PLATFORM := mt6768
 BOARD_HAS_MTK_HARDWARE := true
 BOARD_HAVE_MTK_FM := true
+BOARD_USES_PREBUILT_FMJNI := true
 
 # Properties
 TARGET_SYSTEM_PROP += $(COMMON_PATH)/configs/properties/system.prop
