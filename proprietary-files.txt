@@ -391,14 +391,15 @@ vendor/lib64/hw/consumerir.mt6768.so
 vendor/bin/hw/android.hardware.drm@1.3-service.widevine
 vendor/etc/init/android.hardware.drm@1.3-service.widevine.rc
 -vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.widevine.xml
-vendor/lib/mediadrm/libwvdrmengine.so
+vendor/lib/mediadrm/libwvdrmengine.so|b3843e447113f0aeb3dad1615989b1341430813b
 vendor/lib/liboemcrypto.so
 vendor/lib/libtlcWidevineModularDrm.so
 vendor/lib/libwvhidl.so|f952ef09132d3f5850e2d2e385ed0ff9b7bcdc64
-vendor/lib64/mediadrm/libwvdrmengine.so
+vendor/lib64/mediadrm/libwvdrmengine.so|fd029ae0cc2998a59f17b3a37658c858d785e9db
 vendor/lib64/liboemcrypto.so
 vendor/lib64/libtlcWidevineModularDrm.so
 vendor/lib64/libwvhidl.so|07e7d20f070aa566ff8d1014df7f301ea2401ae7
+
 
 # Engineer Mode
 vendor/lib64/vendor.mediatek.hardware.engineermode@1.0.so
